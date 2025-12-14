@@ -143,6 +143,10 @@ This Markdown file is the source of truth for the `quotes` fortune database. Quo
 >
 > — Henry James
 
+> A little bit less is better than too much.
+>
+> — Joss Stone
+
 > Only after disaster can we be resurrected. It’s only after you’ve lost everything that you’re free to do anything. Nothing is static, everything is evolving, everything is falling apart.
 >
 > — Chuck Palahniuk, Fight Club
@@ -166,6 +170,10 @@ This Markdown file is the source of truth for the `quotes` fortune database. Quo
 > In the land of the blind, the one-eyed man is king.
 >
 > — Proverb
+
+> Solvitur ambulando.
+>
+> — St. Augustine
 
 > I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.
 >
