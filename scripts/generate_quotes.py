@@ -26,7 +26,7 @@ def extract_quotes(source: Path) -> list[str]:
         quotes.append("\n".join(current))
 
     def normalize(block: str) -> str:
-        lines = [line for line in block.split("\n")]
+        lines = block.split("\n")
         if lines and lines[-1].startswith("— "):
             lines[-1] = "\t\t-- " + lines[-1][2:].lstrip()
         elif lines and lines[-1].startswith("-- "):
