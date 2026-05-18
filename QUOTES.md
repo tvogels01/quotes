@@ -179,6 +179,10 @@ This Markdown file is the source of truth for the `quotes` fortune database. Quo
 >
 > — Bruce Lee
 
+> Research your own experience; absorb what is useful, reject what is useless, and add what is essentially your own.
+>
+> — Bruce Lee
+
 > How can you do what you do? Practice.
 >
 > — Madeline

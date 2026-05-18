@@ -33,5 +33,5 @@ fortune quotes | cowsay
 ## Updating the quotes "database"
 
 ```shell
-strfile quotes
+make
 ```
