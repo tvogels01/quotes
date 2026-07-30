@@ -183,6 +183,10 @@ This Markdown file is the source of truth for the `quotes` fortune database. Quo
 >
 > — Bruce Lee
 
-> How can you do what you do? Practice.
+> How can you do what you do? -- Practice.
 >
 > — Madeline
+
+> The privilege of a lifetime is to become who you truly are.
+>
+> — Carl Jung
