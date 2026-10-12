@@ -125,6 +125,10 @@ This Markdown file is the source of truth for the `quotes` fortune database. Quo
 >
 > — Rabindranath Tagore
 
+> Dum differtur, vīta transcurrit.
+> 
+> — Seneca
+
 ## Resilience & Perspective
 
 > “The point is, you see,” said Ford, “that there is no point in driving yourself mad trying to stop yourself going mad. You might just as well give in and save your sanity for later.”
